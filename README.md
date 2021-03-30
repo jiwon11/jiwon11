@@ -1,4 +1,5 @@
 ### About Me 💁🏻
+name: Jiwon Jeong
  Backend Developer
  
 ### Teck Stack
