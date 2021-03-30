@@ -2,6 +2,7 @@
 Backend Developer
  
 ### Teck Stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon11)](https://github.com/anuraghazra/github-readme-stats) </br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></br>
 <a href="https://nodejs.org/ko" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
 <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
@@ -26,6 +27,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jiwon11)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Blog(COMING SOON)
