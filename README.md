@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jiwon11&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jiwon11&show_icons=true&theme=solarized-light&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Blog(COMING SOON)
